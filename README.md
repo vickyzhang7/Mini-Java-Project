@@ -1,2 +1,2 @@
 # Mini-Java-Project
-There are some Java Project
+There are some Java Projects
