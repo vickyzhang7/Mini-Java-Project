@@ -1,0 +1,27 @@
++------------------------+
+|         Land           |
++------------------------+
+| - jf: JFrame           |
+| - jp1: JPanel          |
+| - jp2: JPanel          |
+| - jp3: JPanel          |
+| - jtf1: JTextField     |
+| - jpf1: JPasswordField|
+| - jl1: JLabel          |
+| - jl2: JLabel          |
+| - jb1: JButton         |
+| - jb2: JButton         |
++------------------------+
+| - init()               |
++------------------------+
+| - ButtonListener       |
++------------------------+
+| - actionPerformed()   |
++------------------------+
+| + main()               |
++------------------------+
+
+
+
+
+
