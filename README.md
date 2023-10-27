@@ -1,3 +1,3 @@
-# Mini-Java-Project
+# Java-Project
 There are some Java Projects
 😊
